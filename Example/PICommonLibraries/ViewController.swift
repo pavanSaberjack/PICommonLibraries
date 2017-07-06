@@ -7,11 +7,15 @@
 //
 
 import UIKit
+import PICommonLibraries
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        var helper: PIHelper = PIHelper()
+        helper.hello()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
