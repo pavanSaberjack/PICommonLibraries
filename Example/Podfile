@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PICommonLibraries_Example' do
+  pod 'PICommonLibraries', :path => '../'
+
+  target 'PICommonLibraries_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
