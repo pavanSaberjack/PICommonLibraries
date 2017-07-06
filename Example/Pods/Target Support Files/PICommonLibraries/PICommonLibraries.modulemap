@@ -1,0 +1,6 @@
+framework module PICommonLibraries {
+  umbrella header "PICommonLibraries-umbrella.h"
+
+  export *
+  module * { export * }
+}

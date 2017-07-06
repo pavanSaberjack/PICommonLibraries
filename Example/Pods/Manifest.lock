@@ -1,0 +1,16 @@
+PODS:
+  - PICommonLibraries (1.0.1)
+
+DEPENDENCIES:
+  - PICommonLibraries (from `../`)
+
+EXTERNAL SOURCES:
+  PICommonLibraries:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PICommonLibraries: 9b1f495f35faacb4606183621bdb221a02b43dd2
+
+PODFILE CHECKSUM: 7f5c20bc28d74b52a7b73208b00cc2d2cbca4b11
+
+COCOAPODS: 1.2.1

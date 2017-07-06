@@ -1,0 +1,22 @@
+{
+  "name": "PICommonLibraries",
+  "version": "1.0.1",
+  "summary": "Single place to fetch updted code",
+  "description": "This will enable others to use updated code for all pavan's public libraries",
+  "homepage": "https://github.com/pavanSaberjack/PICommonLibraries",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pavan": "itagi75@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/pavanSaberjack/PICommonLibraries.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PICommonLibraries/Classes/**/*"
+}
